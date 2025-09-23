@@ -1,2 +1,2 @@
-Diseño de juegos II
-Unidad 3
+# Diseno-juegos-II
+ Actividad 2.1. La primera ventana
