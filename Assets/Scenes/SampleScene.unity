@@ -3269,6 +3269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1a537299a90e9f468b1161fc6319e3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::JohnMovement
+  BulletPrefab: {fileID: 3554503335502660246, guid: da396a62fa4afbb4f98853dba2bfbdf7, type: 3}
   JumpForce: 5
   Speed: 5
 --- !u!95 &1152290195
